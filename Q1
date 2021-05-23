@@ -1,0 +1,8 @@
+my_str = input("Enter a string: ")
+if (my_str < o)
+  print("Invalid Input \n")
+else
+  print(my_str: )
+words = [words.lower() for word in my_str.split()]
+words.sort()
+print("The sorted word is: ")
